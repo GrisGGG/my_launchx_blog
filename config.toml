@@ -1,4 +1,4 @@
-baseURL = "https://github.com/GrisGGG"
+baseURL = "https://grisggg.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
